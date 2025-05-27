@@ -22,7 +22,8 @@ Below are the images of the 2 documents from the kicad files of this project
 
 ## Esp32 Custom Microcontroller for ThermovitalSync board schematics 2
 
-![esp32-sch2](https://github.com/user-attachments/assets/5af55689-a8e0-4922-b007-883036d9e8dd)
+![esp32-sch2](https://github.com/user-attachments/assets/930c6022-47ef-4ec2-9516-92491546a73a)
+
 
 ## ThermovitalSync Board 3D Model
 ![tvsb-3d](https://github.com/user-attachments/assets/2c598403-9068-461c-8c7d-ff049181aa47)

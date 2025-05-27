@@ -1,5 +1,5 @@
 # ThermovitalSync-PCB
- A PCB project for a vital monitoring-cooling device with GUI
+ A PCB project with KiCad 8.0 for a vital monitoring and cooling device with GUI
  ## Key features
  + Compact 4-Layer detachable microcontroller PCB with 12V,5V,3.3V power rails from a 11.1 V Lipo battery
  + Pulse, ambient and internal body temperature sensors
